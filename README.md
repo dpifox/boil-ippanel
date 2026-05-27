@@ -12,6 +12,7 @@
 添加定时任务：`crontab -e`
 
 每天五点执行：
+
 `0 5 * * * python3 /root/boil_ippanel.py >/dev/null 2>&1`
 
 会在 /root 目录记录日志
