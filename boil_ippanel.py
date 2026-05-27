@@ -36,7 +36,7 @@ IPPANEL_PASSWORD = "你的密码"
 TARGET_PRIVATE_IP = "192.168.1.1"
 
 # 日志输出到 root 目录，并只保留最新 1000 行
-LOG_FILE_PATH = "/root/ippanel_client.log"
+LOG_FILE_PATH = "/root/boil_ippanel.log"
 LOG_MAX_LINES = 1000
 
 
