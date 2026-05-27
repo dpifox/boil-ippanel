@@ -5,6 +5,8 @@
 
 上传到/root/boil_ippanel.py
 
+在脚本内填入账号密码和要换IP的机器的内网IP
+
 `python3 boil_ippanel.py`测试运行
 
 添加定时任务：`crontab -e`
